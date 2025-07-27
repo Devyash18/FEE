@@ -1,0 +1,20 @@
+*{  
+    background-color: bisque;
+    padding: 2px;
+    margin: 2px;
+    border: 32;
+}
+.submit{
+    background-color: #35d814;
+}
+.reset{
+    background-color: rgba(54, 22, 2, 0.575);
+}
+.main{
+    .heading{
+        color:crimson;
+    }
+}
+input{
+    background-color: aliceblue;
+}
